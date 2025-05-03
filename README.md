@@ -25,6 +25,7 @@ This is a lightweight desktop application built using [Neutralino.js](https://ne
 ![Screenshot 2025-05-03 214504](https://github.com/user-attachments/assets/928eae25-839f-43d5-8fc0-a40b71bf4037)
 ![Screenshot 2025-05-03 214546](https://github.com/user-attachments/assets/c2428205-f0e6-49b8-be2a-4beaf4bbd0e9)
 
+![Screenshot 2025-05-03 215557](https://github.com/user-attachments/assets/6a8af172-5edb-43a9-a01a-aa0563c595ba)
 
 
 ---
