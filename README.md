@@ -1,2 +1,15 @@
-# NewsGlance-Desktop-application
-"NewsGlance", is a desktop application designed to consume and display real-time news data from an API over the internet. It utilizes web technologies (HTML, CSS with Tailwind, and JavaScript with Axios) to fetch news articles from various sources and present them in an engaging and user-friendly interface.
+# neutralinojs-minimal
+
+The default template for a Neutralinojs app. It's possible to use your favorite frontend framework by using [these steps](https://neutralino.js.org/docs/getting-started/using-frontend-libraries).
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=neutralinojs/neutralinojs-minimal)](https://github.com/neutralinojs/neutralinojs-minimal/graphs/contributors)
+
+## License
+
+[MIT](LICENSE)
+
+## Icon credits
+
+- `trayIcon.png` - Made by [Freepik](https://www.freepik.com) and downloaded from [Flaticon](https://www.flaticon.com)
