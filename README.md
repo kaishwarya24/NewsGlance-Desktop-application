@@ -7,7 +7,7 @@ This is a lightweight desktop application built using [Neutralino.js](https://ne
 
 ## 🚀 Features
 
-- ✅ Fetches real-time top headlines from India using NewsAPI
+- ✅ Fetches real-time top headlines from all over the world using NewsAPI
 - 🌐 Built on Neutralino.js — fast, lightweight, and cross-platform
 - 🎨 Modern responsive UI using Tailwind CSS
 - 🔄 "Refresh News" button to update headlines on demand
