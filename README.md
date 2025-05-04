@@ -32,7 +32,6 @@ This is a lightweight desktop application built using [Neutralino.js](https://ne
 
 ## 🛠️ Requirements
 
-- [Node.js](https://nodejs.org/) installed
 - [Neutralino.js CLI](https://neutralino.js.org/docs/#cli-installation)
 
 ---
